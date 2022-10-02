@@ -1316,7 +1316,7 @@
         "rotating":
         {
             "enabled": true,
-            "rotating_proxy": "http://wccqmgel-rotate:yibsgpk1pwpo@p.webshare.io/"
+            "rotating_proxy": "http://user:pass@ip:port"
         },
         "proxy_file": "proxies.txt",
         "retry_connection_errors": true
